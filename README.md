@@ -15,6 +15,7 @@ An application that graphically visualizes various sorting algorithms.
 ## Demo
 
 Insert gif or link to demo
+![Alt Text](Sorting-Algorithm-Visualizer/images/GnomeSortGIF.gif)
 
 
 ## FAQ
