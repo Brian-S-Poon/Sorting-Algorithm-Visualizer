@@ -47,4 +47,8 @@ In addition, I improved my knowledge of the Model-view-controller architectural 
 ## Screenshots
 
 ![App Screenshot](Sorting-Algorithm-Visualizer/images/BubbleSortCapture.png)
+![App Screenshot](Sorting-Algorithm-Visualizer/images/InsertionSortCapture.png)
+![App Screenshot](Sorting-Algorithm-Visualizer/images/SelectionSortCapture.png)
+![App Screenshot](Sorting-Algorithm-Visualizer/images/GnomeSortCapture.png)
+![App Screenshot](Sorting-Algorithm-Visualizer/images/CocktailSortCapture.png)
 
