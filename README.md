@@ -43,7 +43,8 @@ which can placed into a single class.
 
 In this project, I learned how to overcome architectural and design pattern difficulties. 
 In addition, I improved my knowledge of the Model-view-controller architectural pattern.
+
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](Sorting-Algorithm-Visualizer/images/BubbleSortCapture.png)
 
